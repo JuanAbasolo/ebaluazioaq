@@ -1,0 +1,19 @@
+name: "Irakaslearen ebaluazioa"
+navbar:
+  title: "Irakaslea ebaluatzeko bengantza"
+  left:
+    - text: "Jarraibideak"
+      href: index.html
+    - text: "Betetzeko fitxa"
+      href: https://euskaldunak.eus/index.php/apps/forms/ryRgwBGzXqiyFQbW
+#    - text: "Azterketa"
+#      href: about.html
+    - text: "Ebaluaziorako testua"
+      href: osorik.html
+output:
+  html_document:
+    highlight: textmate
+#    include:
+#      after_body: footer.html
+    css: styles.css
+output_dir: ../docs

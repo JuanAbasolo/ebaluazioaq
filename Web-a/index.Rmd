@@ -1,0 +1,19 @@
+---
+title: "Jarraibideak"
+---
+
+Hurrengo pausuak eman irakaslearen ebaluazio kualitatiboa egiteko.
+
+Antzerakoa izango da azterketaren eginbidea; beraz, saia zaitez pausorik pauso ondo ulertzen eta egiten.
+
+1. Sartu idazkeko tokietariko batean: <a href="https://yopad.eu/" target="_blank">[1]</a>, <a href="https://pad.picasoft.net/" target="_blank">[2]</a>, <a href="https://pad.ouvaton.coop/" target="_blank">[3]</a>, <a href="https://pad.systemli.org/" target="_blank">[4]</a>.
+2. Eman izena zure azterketari, tartean zure izena duela (abizenik ez da behar).
+3. Intro-ri eman eta ezabatu aurrez daukan edukia
+4. Bete ezazu <a href="https://euskaldunak.eus/index.php/apps/forms/ryRgwBGzXqiyFQbW" target="_blank">fitxa hau</a>  
+  Kontuan izan ezazu nik hartzeko fitxa hori egoki beteta izan behar dela, fitxa horretatik hartuko baitut ebaluazioa eta horrekin batzen diren datuak. Beraz, web helbidea ondo kopiatzen duzula bermatzeko `ktrl+c` + `ktrl+v` edo *kopiatu* eta *itsatsi* erabili, **EZ zeuk IDATZITA**.
+5. Kopiatu eta itsatsi ebaluazioko itemak.  
+  [*Galdeketa*](./osorik.html) dioen ataleean dituzu galderak.
+
+---
+
+Amaitu aurretik aztertu zure idatzia, ea ulertzen den esan nahi duzuna eta ea horrela esan behar den unibertsitatean.

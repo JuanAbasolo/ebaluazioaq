@@ -1,0 +1,25 @@
+---
+title: "Azterketa bera"
+---
+
+Kopiatu eta itsatsi hurrengo testua azterketa egiteko sortu duzun *pad* horretan. (`Ktrl+C` `Ktrl+V`)
+
+---
+
+
+1.  **Eleaniztunok nola antolatua ote dugu burua?** Burmuinean ditugun hizkuntzak erabiltzean guztiz autonomoa eta berezia da hizkuntza bakoitza ala badira hizkuntzen artean erkide diren elementuak edo gaitasun konpartituak?
+3.  Eskoletako hizkuntz aniztasuna aipatzen dugunean zer hizkuntza eta aldaera ditugu gogoan? Azaldu zer **jokabide** eta zer **helburu** eduki behar ditugun gogoan hizkuntza eta aldaera bakoitzari dagokionez, eta **zergatik** den horrela.
+3.  Hizkuntzak eta Edukiak Batera Ikasteko programetan (HEBI/CLIL) aipatzen da **esposizioaren denbora** eta **esposizioaren kalitatea** inportanteak direla. Zer esan nahi dute ideia horiek?
+4.  Dagoeneko eskola pare baten izan zara praktiketan. **Azaldu hizkuntzaren** nolako **trataera** ikusi duzun, ikasgaian landutako gaien arabera.
+
+---
+
+## Klasean erabilitako aurkezpen dokumentuak
+
+Zenbakian klik eginda zabaltzen da
+
+* [1](./gaiak/1-gaia_LauPilareak.pdf) gaia
+* [2](2-gaia-Elebitasunetik_eleaniztasunera.pdf) gaia
+* [3](3-gaia_Ikastetxeko hizkuntzen kudeatzea.pdf) gaia
+* [4](4-gaia-HTB.pdf) gaia
+* [5](5-gaia-CLIL.pdf) gaia
